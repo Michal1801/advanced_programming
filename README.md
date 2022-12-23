@@ -47,11 +47,14 @@ As soon as the code runs, a pdf file is created, which contains the following in
 4.	 Summary statistics, of each stock selected by the user
 5.	 Portfolio analysis, which includes 3 main portfolios with their respective expected return and risk:
 	
-	a.	Optimal Risky Portfolio, which maximizes the risk-adjusted return for the investor. It is expressed as the slope of the CAL and is located on the tangency of the Efficient Frontier and the CAL. Use of leverage gives the user the opportunity to increase or decrease his expected return (along with risk)
+	a.	Optimal Risky Portfolio, which maximizes the risk-adjusted return for the investor. 
+		It is expressed as the slope of the CAL and is located on the tangency of the Efficient Frontier and the CAL. 
+		Use of leverage gives the user the opportunity to increase or decrease his expected return (along with risk).
 	
-	b.	Minimum Variance Portfolio, which as the name suggests offers the least possible risk to the investor
+	b.	Minimum Variance Portfolio, which as the name suggests offers the least possible risk to the investor.
 	
-	c.	Maximum Utility Portfolio, which maximizes the user’s expected utility and should be the preferred portfolio allocation strategy according to the user’s risk preferences
+	c.	Maximum Utility Portfolio, which maximizes the user’s expected utility and should be the preferred 
+		portfolio allocation strategy according to the user’s risk preferences.
 	
 6.	 Portfolio weights, for each portfolio as presented above.
 7.	 Portfolio performance, of the individual stocks as well as of the Maximum Utility Portfolio
